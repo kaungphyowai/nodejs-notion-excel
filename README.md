@@ -76,3 +76,5 @@ contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additio
 Note
 
 DOn't forget to add client Id
+
+Need the server that can obtain by running notion-api repo for now(next feature plan to integrate these two)
